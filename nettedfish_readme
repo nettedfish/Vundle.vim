@@ -1,0 +1,5 @@
+1.已经下载了vundle.vim_from_github 仓库，现在正在修改中
+2.如下命令 把我的仓库瘦身
+git push --prune nettedfish refs/heads/*
+3.与vim相关的还有一个本地仓库:
+vimrc_from_github
